@@ -7,7 +7,7 @@
 body{
     width: 100vw; 
     height: 100vh; 
-    background-image:url(background.png);
+    background-image:url(paisagem2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -18,7 +18,7 @@ body{
     align-items: center;
 }
 main{
-    display:  flex;
+    display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
@@ -40,7 +40,7 @@ button {
     font-family: 'Montserrat', sans-serif;
     color: black;
     background-color: gold;
-    
+
 }
 imput {
     font-size: 50px;
@@ -59,3 +59,29 @@ imput {
     border-style: none;
     border-radius: 10px 10px 10px 10px;
 }
+.linked{
+    width: 150px;
+    height: 40px;
+    background-color: steelblue;
+    border-style: none;
+    border-radius: 5px;
+    color: white;
+}
+.github{
+    width: 150px;
+    height: 40px;
+    background-color: black;
+    border-style: none;
+    border-radius: 5px;
+    color: white;
+}
+.instagram{
+    width: 150px;
+    height: 40px;
+    background-color :orange ;
+    border-style: none;
+    border-radius: 5px;
+    color: white;
+}
+
+
